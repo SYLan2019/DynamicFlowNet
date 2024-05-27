@@ -1,9 +1,9 @@
 
 Datasets
 =
-# 1. download
+## 1. download
 Datasets can be downloaded at https://drive.google.com/drive/folders/18-g1_fTOwsruV6_HKtmRwrhQZ7DNITGO?usp=drive_link
-# 2.prepare
+## 2.prepare
 Put them in the right folder. You can find the correct location in the file under /Datasets/
 
 Train And Test
